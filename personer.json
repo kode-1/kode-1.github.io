@@ -1,0 +1,8 @@
+{
+	"personer" : [
+		{ "navn" : "Holger Danske", "land" : "Danmark"},
+		{ "navn" : "Ola Nordmann", "land" : "Norge"},
+		{ "navn" : "Patrick Sjøberg", "land: "Sverige"},
+		{ "navn" : "Steve Jobs", "land" : "USA"}
+	]
+}
